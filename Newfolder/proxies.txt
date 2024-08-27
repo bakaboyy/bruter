@@ -1,1 +1,15 @@
-
+gw.dataimpulse.com:10000:9714109f4dabc80a585b:e9a55285f44dd140
+gw.dataimpulse.com:10001:9714109f4dabc80a585b:e9a55285f44dd140
+gw.dataimpulse.com:10002:9714109f4dabc80a585b:e9a55285f44dd140
+gw.dataimpulse.com:10003:9714109f4dabc80a585b:e9a55285f44dd140
+gw.dataimpulse.com:10004:9714109f4dabc80a585b:e9a55285f44dd140
+gw.dataimpulse.com:10005:9714109f4dabc80a585b:e9a55285f44dd140
+gw.dataimpulse.com:10006:9714109f4dabc80a585b:e9a55285f44dd140
+gw.dataimpulse.com:10007:9714109f4dabc80a585b:e9a55285f44dd140
+gw.dataimpulse.com:10008:9714109f4dabc80a585b:e9a55285f44dd140
+gw.dataimpulse.com:10009:9714109f4dabc80a585b:e9a55285f44dd140
+gw.dataimpulse.com:10010:9714109f4dabc80a585b:e9a55285f44dd140
+gw.dataimpulse.com:10011:9714109f4dabc80a585b:e9a55285f44dd140
+gw.dataimpulse.com:10012:9714109f4dabc80a585b:e9a55285f44dd140
+gw.dataimpulse.com:10013:9714109f4dabc80a585b:e9a55285f44dd140
+gw.dataimpulse.com:10014:9714109f4dabc80a585b:e9a55285f44dd140
